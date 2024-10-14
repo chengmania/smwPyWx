@@ -41,38 +41,30 @@ Install Required Dependencies:
 Install the necessary Python packages using pip:
 
     pip install -r requirements.txt
-    Add Your OpenWeather API Key:
-
-
+  
 Run the Application:
 
 Run the app using:
 
     python smwPyWx.py
     
+On first start of the program, the app will search for a wxconfig.ini file.  If the file does not exist the program will load you into a settings menu and prompt you for the information, zip code, units, and api key.
+
 Required Packages
 PyQt6: For building the graphical user interface (GUI).
-
 Requests: For making HTTP requests to the OpenWeather and HamQSL APIs.
-
 pgeocode: For retrieving the state information from zip codes.
-
 ConfigParser: For managing app settings through an .ini file.
-
 XML ElementTree: For parsing XML data from the solar weather API.
 
 
 Usage
 Current Weather Tab: Displays the current weather for a specified zip code.
-
 5-Day Forecast Tab: Provides the weather forecast for the next 5 days.
-
 Weather Alerts Tab: Shows any active weather alerts.
-
 Solar Weather Tab: Displays solar weather information, including solar flux, sunspots, and band conditions.
 
 Solar Weather Source
-
 Credit for the solar weather data goes to Paul N0NBH and HamQSL.com.
 
 
