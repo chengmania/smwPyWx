@@ -1,8 +1,11 @@
 smwPyWx: Weather and Solar Weather App
 
-![image](https://github.com/user-attachments/assets/0927f6f7-4d23-4614-9700-a8a68b1dfe40)
-![image](https://github.com/user-attachments/assets/6fb1c0c8-c956-4255-a39e-5913fb8c1a02)
-![image](https://github.com/user-attachments/assets/0e619e14-7361-43e3-8b7c-679430ce5755)
+![image](https://github.com/user-attachments/assets/8ca607ed-9937-49a8-a31b-15726c33f09c)
+
+![image](https://github.com/user-attachments/assets/e9c55d64-1991-44fe-84b6-cdd62462209e)
+
+![image](https://github.com/user-attachments/assets/6e6307e3-d25a-4de1-ac6d-5dc01e79d25e)
+
 
 
 
